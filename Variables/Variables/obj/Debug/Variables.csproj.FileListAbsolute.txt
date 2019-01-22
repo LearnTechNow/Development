@@ -1,0 +1,7 @@
+D:\C#\Video Tutorial New\Development\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+D:\C#\Video Tutorial New\Development\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\C#\Video Tutorial New\Development\Variables\Variables\bin\Debug\Variables.exe.config
+D:\C#\Video Tutorial New\Development\Variables\Variables\bin\Debug\Variables.exe
+D:\C#\Video Tutorial New\Development\Variables\Variables\bin\Debug\Variables.pdb
+D:\C#\Video Tutorial New\Development\Variables\Variables\obj\Debug\Variables.exe
+D:\C#\Video Tutorial New\Development\Variables\Variables\obj\Debug\Variables.pdb
